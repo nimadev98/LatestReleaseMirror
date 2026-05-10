@@ -157,5 +157,70 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="karingx--karing"></div>
 
+### KaringX--karing
+
+🔗 [source](https://github.com/KaringX/karing) – [<code><small>v1.2.18.2102</small></code>](https://github.com/KaringX/karing/releases/tag/v1.2.18.2102)
+
+| File | Size | Download |
+|------|------|----------|
+| `karing_1.2.18.2102_macos_universal.dmg` | 91.0 MB | [⬇️ Download](https://raw.githubusercontent.com/nimadev98/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_macos_universal.dmg) |
+| `karing_1.2.18.2102_windows_x64.exe` | 43.6 MB | [⬇️ Download](https://raw.githubusercontent.com/nimadev98/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_windows_x64.exe) |
+
+---
+
+<div id="nulllatency--flowdriver"></div>
+
+### NullLatency--FlowDriver
+
+🔗 [source](https://github.com/NullLatency/FlowDriver) – [<code><small>v0.0.4</small></code>](https://github.com/NullLatency/FlowDriver/releases/tag/v0.0.4)
+
+| File | Size | Download |
+|------|------|----------|
+| `flow-driver-v0.0.4-darwin-amd64.zip` | 9.7 MB | [⬇️ Download](https://raw.githubusercontent.com/nimadev98/LatestReleaseMirror/main/releases/NullLatency/FlowDriver/flow-driver-v0.0.4-darwin-amd64.zip) |
+| `flow-driver-v0.0.4-linux-amd64.zip` | 9.4 MB | [⬇️ Download](https://raw.githubusercontent.com/nimadev98/LatestReleaseMirror/main/releases/NullLatency/FlowDriver/flow-driver-v0.0.4-linux-amd64.zip) |
+
+---
+
+<div id="sagernet--sing-box"></div>
+
+### SagerNet--sing-box
+
+🔗 [source](https://github.com/SagerNet/sing-box) – [<code><small>v1.13.11</small></code>](https://github.com/SagerNet/sing-box/releases/tag/v1.13.11)
+
+| File | Size | Download |
+|------|------|----------|
+| `SFA-1.13.11-arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/nimadev98/LatestReleaseMirror/main/releases/SagerNet/sing-box/SFA-1.13.11-arm64-v8a.apk) |
+| `SFA-1.13.11-legacy-android-5-arm64-v8a.apk` | 22.2 MB | [⬇️ Download](https://raw.githubusercontent.com/nimadev98/LatestReleaseMirror/main/releases/SagerNet/sing-box/SFA-1.13.11-legacy-android-5-arm64-v8a.apk) |
+| `sing-box-1.13.11-darwin-amd64.tar.gz` | 19.3 MB | [⬇️ Download](https://raw.githubusercontent.com/nimadev98/LatestReleaseMirror/main/releases/SagerNet/sing-box/sing-box-1.13.11-darwin-amd64.tar.gz) |
+| `sing-box-1.13.11-darwin-arm64.tar.gz` | 17.7 MB | [⬇️ Download](https://raw.githubusercontent.com/nimadev98/LatestReleaseMirror/main/releases/SagerNet/sing-box/sing-box-1.13.11-darwin-arm64.tar.gz) |
+| `sing-box-1.13.11-windows-amd64.zip` | 19.4 MB | [⬇️ Download](https://raw.githubusercontent.com/nimadev98/LatestReleaseMirror/main/releases/SagerNet/sing-box/sing-box-1.13.11-windows-amd64.zip) |
+| `sing-box-1.13.11-windows-amd64-legacy-windows-7.zip` | 15.1 MB | [⬇️ Download](https://raw.githubusercontent.com/nimadev98/LatestReleaseMirror/main/releases/SagerNet/sing-box/sing-box-1.13.11-windows-amd64-legacy-windows-7.zip) |
+
+---
+
+<div id="windscribe--desktop-app"></div>
+
+### Windscribe--Desktop-App
+
+🔗 [source](https://github.com/Windscribe/Desktop-App) – [<code><small>v2.21.7</small></code>](https://github.com/Windscribe/Desktop-App/releases/tag/v2.21.7)
+
+| File | Size | Download |
+|------|------|----------|
+| `Windscribe_2.21.7_amd64.exe` | 38.0 MB | [⬇️ Download](https://raw.githubusercontent.com/nimadev98/LatestReleaseMirror/main/releases/Windscribe/Desktop-App/Windscribe_2.21.7_amd64.exe) |
+| `Windscribe_2.21.7_arm64.exe` | 32.9 MB | [⬇️ Download](https://raw.githubusercontent.com/nimadev98/LatestReleaseMirror/main/releases/Windscribe/Desktop-App/Windscribe_2.21.7_arm64.exe) |
+| `Windscribe_2.21.7_universal.dmg` | 67.4 MB | [⬇️ Download](https://raw.githubusercontent.com/nimadev98/LatestReleaseMirror/main/releases/Windscribe/Desktop-App/Windscribe_2.21.7_universal.dmg) |
+| `windscribe-cli_2.21.7_amd64.deb` | 19.3 MB | [⬇️ Download](https://raw.githubusercontent.com/nimadev98/LatestReleaseMirror/main/releases/Windscribe/Desktop-App/windscribe-cli_2.21.7_amd64.deb) |
+| `windscribe-cli_2.21.7_amd64.pkg.tar.zst` | 23.5 MB | [⬇️ Download](https://raw.githubusercontent.com/nimadev98/LatestReleaseMirror/main/releases/Windscribe/Desktop-App/windscribe-cli_2.21.7_amd64.pkg.tar.zst) |
+| `windscribe-cli_2.21.7_amd64_fedora.rpm` | 20.1 MB | [⬇️ Download](https://raw.githubusercontent.com/nimadev98/LatestReleaseMirror/main/releases/Windscribe/Desktop-App/windscribe-cli_2.21.7_amd64_fedora.rpm) |
+| `windscribe-cli_2.21.7_amd64_opensuse.rpm` | 20.1 MB | [⬇️ Download](https://raw.githubusercontent.com/nimadev98/LatestReleaseMirror/main/releases/Windscribe/Desktop-App/windscribe-cli_2.21.7_amd64_opensuse.rpm) |
+| `windscribe-cli_2.21.7_arm64.deb` | 19.3 MB | [⬇️ Download](https://raw.githubusercontent.com/nimadev98/LatestReleaseMirror/main/releases/Windscribe/Desktop-App/windscribe-cli_2.21.7_arm64.deb) |
+| `windscribe-cli_2.21.7_arm64_fedora.rpm` | 22.3 MB | [⬇️ Download](https://raw.githubusercontent.com/nimadev98/LatestReleaseMirror/main/releases/Windscribe/Desktop-App/windscribe-cli_2.21.7_arm64_fedora.rpm) |
+| `windscribe_2.21.7_amd64.deb` | 31.0 MB | [⬇️ Download](https://raw.githubusercontent.com/nimadev98/LatestReleaseMirror/main/releases/Windscribe/Desktop-App/windscribe_2.21.7_amd64.deb) |
+| `windscribe_2.21.7_amd64.pkg.tar.zst` | 37.9 MB | [⬇️ Download](https://raw.githubusercontent.com/nimadev98/LatestReleaseMirror/main/releases/Windscribe/Desktop-App/windscribe_2.21.7_amd64.pkg.tar.zst) |
+| `windscribe_2.21.7_amd64_fedora.rpm` | 32.6 MB | [⬇️ Download](https://raw.githubusercontent.com/nimadev98/LatestReleaseMirror/main/releases/Windscribe/Desktop-App/windscribe_2.21.7_amd64_fedora.rpm) |
+| `windscribe_2.21.7_amd64_opensuse.rpm` | 32.6 MB | [⬇️ Download](https://raw.githubusercontent.com/nimadev98/LatestReleaseMirror/main/releases/Windscribe/Desktop-App/windscribe_2.21.7_amd64_opensuse.rpm) |
+| `windscribe_2.21.7_arm64.deb` | 32.3 MB | [⬇️ Download](https://raw.githubusercontent.com/nimadev98/LatestReleaseMirror/main/releases/Windscribe/Desktop-App/windscribe_2.21.7_arm64.deb) |
+| `windscribe_2.21.7_arm64_fedora.rpm` | 38.9 MB | [⬇️ Download](https://raw.githubusercontent.com/nimadev98/LatestReleaseMirror/main/releases/Windscribe/Desktop-App/windscribe_2.21.7_arm64_fedora.rpm) |
 <!-- RELEASES_END -->
